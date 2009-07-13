@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace cctalklib
+{
+    public enum CRCType
+    {
+        CRC16 = 100,
+        CRC32 = 101,
+        CRC16CCITT = 102
+    }
+    
+    public enum InitialCrcValue 
+    { 
+        Zeros = 0x0000, 
+        NonZero1 = 0xffff, 
+        NonZero2 = 0x1D0F 
+    }
+    
+    interface ICRC
+    {
+
+        byte[] ComputeChecksumBytes(byte[] arr);
+        //ushort ComputeChecksum(byte[] bytes);
+    }
+    
+}

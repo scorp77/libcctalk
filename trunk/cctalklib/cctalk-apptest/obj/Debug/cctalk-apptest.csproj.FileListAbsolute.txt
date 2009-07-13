@@ -1,0 +1,10 @@
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\cctalk-apptest\bin\Debug\cctalk-apptest.exe
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\cctalk-apptest\bin\Debug\cctalk-apptest.pdb
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\cctalk-apptest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\cctalk-apptest\obj\Debug\cctalk_apptest.Properties.Resources.resources
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\cctalk-apptest\obj\Debug\cctalk-apptest.csproj.GenerateResource.Cache
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\cctalk-apptest\obj\Debug\cctalk-apptest.exe
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\cctalk-apptest\obj\Debug\cctalk-apptest.pdb
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\cctalk-apptest\obj\Debug\cctalk_apptest.Form1.resources
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\cctalk-apptest\bin\Debug\cctalklib.dll
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\cctalk-apptest\bin\Debug\cctalklib.pdb
