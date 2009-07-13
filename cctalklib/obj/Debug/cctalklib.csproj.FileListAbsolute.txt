@@ -1,0 +1,10 @@
+C:\Documents and Settings\S.A.T.I._01\Impostazioni locali\Dati applicazioni\Temporary Projects\cctalklib\bin\Debug\cctalklib.dll
+C:\Documents and Settings\S.A.T.I._01\Impostazioni locali\Dati applicazioni\Temporary Projects\cctalklib\bin\Debug\cctalklib.pdb
+C:\Documents and Settings\S.A.T.I._01\Impostazioni locali\Dati applicazioni\Temporary Projects\cctalklib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\S.A.T.I._01\Impostazioni locali\Dati applicazioni\Temporary Projects\cctalklib\obj\Debug\cctalklib.dll
+C:\Documents and Settings\S.A.T.I._01\Impostazioni locali\Dati applicazioni\Temporary Projects\cctalklib\obj\Debug\cctalklib.pdb
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\obj\Debug\cctalklib.dll
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\obj\Debug\cctalklib.pdb
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\bin\Debug\cctalklib.dll
+C:\Documents and Settings\S.A.T.I._01\Desktop\banco\provaprogetto\TEST\cctalklib\bin\Debug\cctalklib.pdb
