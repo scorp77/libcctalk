@@ -36,7 +36,7 @@ namespace cctalklib.connection
             this.write = new byte[255];
         }
 
-        public ~ConnectionRS232()
+         ~ConnectionRS232()
         {
             if (this.serialPort1.IsOpen) this.serialPort1.Close(); 
         }
