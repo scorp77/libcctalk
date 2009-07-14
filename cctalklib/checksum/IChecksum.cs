@@ -7,6 +7,7 @@ namespace cctalklib.checksum
 {
     public enum CheckSumType
     {
+        None = 0,
         Normal = 1,
         CRC = 2
     }

@@ -8,13 +8,13 @@ namespace cctalklib.request
 {
     
 
-    abstract class Command : ICommand
+    public abstract class Command : ICommand
     {
         protected string mittente;
         protected string destinatario;
         protected string header;
         protected Devices dev;
-        protected CheckSumType checksum;
+        protected CheckSumType checksum = CheckSumType.None;
         protected int nbyterequest;
         protected int nbyteresponse;
         protected IByteArray array;
@@ -109,7 +109,7 @@ namespace cctalklib.request
 
         protected void estimatedChecksum(byte[] arr)
         {
-            if (this.checksum == null) this.checksum = this.des[this.dev];
+            if (this.checksum == CheckSumType.None) this.checksum = this.des[this.dev];
 
             IChecksum ck = this.check[this.Checksum];
             ck.setParameter(this.nbyterequest, arr);

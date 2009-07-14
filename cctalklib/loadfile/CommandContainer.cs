@@ -14,7 +14,12 @@ namespace cctalklib.loadfile
         RequestStatus = 248,
         SimplePoll = 254,
         SerialNumber = 242,
-        ModifySorter = 210
+        ModifySorter = 210,
+        DisposeHopperCoin = 167,
+        RequestHopperStatus = 166,
+        EnableHopper = 164,
+        TestHopper = 163,
+        Reset = 1
 
     }
 
@@ -31,6 +36,11 @@ namespace cctalklib.loadfile
             this.dict.Add(Function.SerialNumber, new Command_242());
             this.dict.Add(Function.RequestStatus, new Command_248());
             this.dict.Add(Function.SimplePoll, new Command_254());
+        }
+
+        public ICommand getCommand(Function fn){
+
+            return this.dict[fn];
         }
 
 

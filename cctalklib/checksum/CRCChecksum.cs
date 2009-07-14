@@ -9,7 +9,6 @@ namespace cctalklib.checksum
     {
         #region IChecksum Membri di
         private Dictionary<CRCType, ICRC> cr;
-        private CRCType obj;
         private byte[] arr;
         private int length;
         public CRCChecksum()
