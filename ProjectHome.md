@@ -1,0 +1,1 @@
+This project aims to provide a utility command to all programmers who use the cctalk as communication protocol with coins, notes and reader hopper
